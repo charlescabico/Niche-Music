@@ -1,7 +1,7 @@
 {
   "name": "tuneyboi",
   "version": "1.0.0",
-  "description": "Tuneyboi Website",
+  "description": "Niche-Music Website",
   "main": "index.js",
   "dependencies": {
     "gh-pages": "^2.0.1"
@@ -12,12 +12,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/charlescabico/tunieboi.git"
+    "url": "git+https://github.com/charlescabico/Niche-Music.git"
   },
   "author": "Charles Cabico",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/charlescabico/tunieboi/issues"
+    "url": "https://github.com/charlescabico/Niche-Music/issues"
   },
-  "homepage": "https://github.com/charlescabico/tunieboi#readme"
+  "homepage": "https://github.com/charlescabico/Niche-Music#readme"
 }
