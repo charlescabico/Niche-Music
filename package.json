@@ -1,0 +1,16 @@
+{
+  "name": "Tunieboi",
+  "version": "1.0.0",
+  "description": "Website",
+  "main": "index.js",
+  "homepage": "https://charlescabico.github.io/tunieboi/",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "Charles Cabico",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^2.0.1",
+    "node-sass": "^4.11.0"
+  }
+}
