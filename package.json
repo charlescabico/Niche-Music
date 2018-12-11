@@ -1,16 +1,23 @@
 {
-  "name": "Tunieboi",
+  "name": "tuneyboi",
   "version": "1.0.0",
-  "description": "Website",
+  "description": "Tuneyboi Website",
   "main": "index.js",
-  "homepage": "https://charlescabico.github.io/tunieboi/",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  },
+  "devDependencies": {},
   "scripts": {
     "deploy": "gh-pages -d dist"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charlescabico/tunieboi.git"
+  },
   "author": "Charles Cabico",
   "license": "ISC",
-  "dependencies": {
-    "gh-pages": "^2.0.1",
-    "node-sass": "^4.11.0"
-  }
+  "bugs": {
+    "url": "https://github.com/charlescabico/tunieboi/issues"
+  },
+  "homepage": "https://github.com/charlescabico/tunieboi#readme"
 }
