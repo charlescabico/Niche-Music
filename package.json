@@ -3,8 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "homepage": "https://charlescabico.github.io/Niche-Music/",
   "scripts": {
-    "deploy" : "gh-pages -d dist"
+    "deploy": "gh-pages -d dist"
   },
   "repository": {
     "type": "git",
@@ -16,5 +17,7 @@
   "bugs": {
     "url": "https://github.com/charlescabico/Niche-Music/issues"
   },
-  "homepage": "https://github.com/charlescabico/Niche-Music#readme"
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
 }
