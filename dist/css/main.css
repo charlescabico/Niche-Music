@@ -206,7 +206,7 @@ footer .footer-cols ul li:first-child {
 
 nav {
   position: fixed;
-  height: 40px;
+  height: 43px;
   width: 100%;
   background-color: #333;
   color: #eee;
@@ -219,11 +219,12 @@ nav ul {
 
 nav li {
   display: inline;
+  padding: 10px 0;
 }
 
 nav a {
   display: inline-block;
-  width: 100px;
+  width: 105px;
   text-align: center;
   text-decoration: none;
   padding: 10px 0;
@@ -243,6 +244,9 @@ nav a#openup {
 
 /* Smart Phones */
 @media screen and (max-width: 580px) {
+  nav li {
+    padding: 0;
+  }
   .container {
     padding: 0 2rem;
   }
